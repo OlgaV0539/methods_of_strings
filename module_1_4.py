@@ -1,0 +1,6 @@
+my_string = input ('Введите название Вашего любимого фрукта: ')
+print( 'В слове', len(my_string), 'букв')
+print(my_string.upper())
+print(my_string.lower())
+print(my_string[0])
+print(my_string[-1])
